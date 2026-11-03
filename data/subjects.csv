@@ -1,0 +1,444 @@
+subject_id,subject_name,L,T,P,branch,semester,elective_group,is_elective
+MAT201R01,Engineering Mathamatics-III,3,1,0,Robotics and Artifical Intelligence,3,,0
+EEE201R01,Electric Networks,3,1,0,Robotics and Artifical Intelligence,3,,0
+ECE104,Signal&Systems,3,1,0,Robotics and Artifical Intelligence,3,,0
+EIE112,Introduction to Robotics,3,1,0,Robotics and Artifical Intelligence,3,,0
+MAT301R01,Engineering Mathamatics-IV,3,1,0,Robotics and Artifical Intelligence,4,,0
+EIE114,Feedback control systems,3,0,2,Robotics and Artifical Intelligence,4,,0
+EIE115,Introduction to Artifical intelligence,3,1,0,Robotics and Artifical Intelligence,4,,0
+ECE105R01,Digital Electronics,3,0,0,Robotics and Artifical Intelligence,4,,0
+ECE201R01,Microprocessor& Microcontroller,4,0,0,Robotics and Artifical Intelligence,5,,0
+EIE225,Machine Learning Systems,3,0,2,Robotics and Artifical Intelligence,5,,0
+EIE221,Autonomous Navigation of Wheeled Mobile Robot,3,1,0,Robotics and Artifical Intelligence,5,,0
+TNP101R01,Soft Skills-I,0,0,2,Robotics and Artifical Intelligence,5,,0
+EEE213,Electrical Machines & Drives,3,0,2,Robotics and Artifical Intelligence,6,,0
+MCT309,Industrial Manipulators,3,0,0,Robotics and Artifical Intelligence,6,,0
+EIE331,Generative AI & Machine Intelligence,3,0,2,Robotics and Artifical Intelligence,6,,0
+TNP102R01,Soft Skills-II,0,0,2,Robotics and Artifical Intelligence,6,,0
+EIE415,Deep Reinforcement Learning,3,1,0,Robotics and Artifical Intelligence,7,,0
+ECE415,Image Analysis & Computer Vision ,3,1,0,Robotics and Artifical Intelligence,7,,0
+EIE412,Sensor Fusion Techniques For Robots,3,0,0,Robotics and Artifical Intelligence,7,,0
+ECE323,Protocol & Architecture for Internet of Things,3,0,2,Robotics and Artifical Intelligence,7,,0
+MAN105,Professional Ethics,0,0,2,Robotics and Artifical Intelligence,7,,0
+CSE208,Java Programming,3,0,2,Robotics and Artifical Intelligence,4,,1
+ECE112,Fundamentals of Cyber Physical Systems,4,0,0,Robotics and Artifical Intelligence,4,,1
+MAT304R01,Mathematics for Cyber Security,3,1,0,Robotics and Artifical Intelligence,4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Robotics and Artifical Intelligence,4,,1
+EIE224,Medical Instrumentation,3,0,2,Robotics and Artifical Intelligence,4,,1
+ECE114,Device Modeling,3,0,2,Robotics and Artifical Intelligence,4,,1
+PHY126R01,Device Physics,4,0,0,Robotics and Artifical Intelligence,4,,1
+EIE321,Evolutionary Computation & Intelligence,4,0,0,Robotics and Artifical Intelligence,5,,1
+EIE313,Digital Control Systems,3,1,0,Robotics and Artifical Intelligence,5,,1
+CSE302,Computer Networks,4,0,0,Robotics and Artifical Intelligence,5,,1
+INT301,Network Tools & Techniques,3,0,2,Robotics and Artifical Intelligence,5,,1
+CSE305R01,Design & Analysis of Algorithms,4,0,0,Robotics and Artifical Intelligence,5,,1
+EIE227,"Detection, Estimation & Filtering Theory",4,0,0,Robotics and Artifical Intelligence,5,,1
+EIE226,Nonlinear Control,3,1,0,Robotics and Artifical Intelligence,5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Robotics and Artifical Intelligence,5,,1
+ECE223R01,IC Fabrication,4,0,0,Robotics and Artifical Intelligence,5,,1
+EIE324,Bipedal Robots,4,0,0,Robotics and Artifical Intelligence,6,,1
+ECE326,Embedded & Real-Time System Design,4,0,0,Robotics and Artifical Intelligence,6,,1
+CSE313,Cryptography & Network Security,3,1,0,Robotics and Artifical Intelligence,6,,1
+INT309,Domain- Centric Security,3,0,2,Robotics and Artifical Intelligence,6,,1
+EIE326,Self-Driving Cars,4,0,0,Robotics and Artifical Intelligence,6,,1
+EIE327,Underwater Vehicles,4,0,0,Robotics and Artifical Intelligence,6,,1
+EIE328,Robot Motion Planning & Control,3,1,0,Robotics and Artifical Intelligence,6,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Robotics and Artifical Intelligence,6,,1
+ECE204,Digital Signal Processing,3,1,0,Robotics and Artifical Intelligence,6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Robotics and Artifical Intelligence,6,,1
+ECE412,CAD for VLSI,3,0,0,Robotics and Artifical Intelligence,6,,1
+EIE418,Natural Language Processing Systems,3,0,2,Robotics and Artifical Intelligence,7,,1
+EIE325,Introduction to Underactuated Robotics,4,0,0,Robotics and Artifical Intelligence,7,,1
+EIE410,Autonomous Unmanned Aerial Vehicles,4,0,0,Robotics and Artifical Intelligence,7,,1
+EIE315,Systems Design,1,0,4,Robotics and Artifical Intelligence,7,,1
+EIE413,Multiagent Robots,4,0,0,Robotics and Artifical Intelligence,7,,1
+ECE316,Digital VLSI Design,4,0,0,Robotics and Artifical Intelligence,7,,1
+INT409,Embedded Security,3,0,2,Robotics and Artifical Intelligence,7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Robotics and Artifical Intelligence,7,,1
+MAT201R01,Engineering Mathematics-III,3,1,0,Electrical & Electronics Engineering,3,,0
+EEE201R01,Electric Networks,3,1,0,Electrical & Electronics Engineering,3,,0
+EIE218R02,Analog Electronic Circuits,3,1,0,Electrical & Electronics Engineering,3,,0
+ECE105R01,Digital Electronics,2,0,2,Electrical & Electronics Engineering,3,,0
+EIE102,Electrical & Electronic Measurements,3,0,0,Electrical & Electronics Engineering,4,,0
+MAT301R01,Engineering Mathematics-IV,3,1,0,Electrical & Electronics Engineering,4,,0
+EEE102,Electromagnetic Field Theory,3,0,0,Electrical & Electronics Engineering,4,,0
+ECE104,Signal&Systems,3,1,0,Electrical & Electronics Engineering,4,,0
+EEE203,D.C. Machines & Transformers,3,0,0,Electrical & Electronics Engineering,4,,0
+ECE201R01,Microprocessor& Microcontroller,4,0,0,Electrical & Electronics Engineering,4,,0
+MAT307R01,statistical Methods,3,1,0,Electrical & Electronics Engineering,5,,0
+EEE202R01,Power Electronics,3,1,0,Electrical & Electronics Engineering,5,,0
+EEE204,Transmission & Distribution,3,1,0,Electrical & Electronics Engineering,5,,0
+EEE205,Induction & Synchronous Machines,3,0,0,Electrical & Electronics Engineering,5,,0
+TNP101R01,Soft Skills-I,0,0,2,Electrical & Electronics Engineering,5,,0
+EEE301,Power System Analysis,3,1,0,Electrical & Electronics Engineering,6,,0
+EIE104,Control Engineering,3,1,0,Electrical & Electronics Engineering,6,,0
+EEE3032,Solid State Drives,3,0,0,Electrical & Electronics Engineering,6,,0
+TNP102R01,Soft Skills-II,0,0,2,Electrical & Electronics Engineering,6,,0
+EEE304,Power System Protection Techniques,3,0,0,Electrical & Electronics Engineering,7,,0
+EEE305,Operation & Control of Power Systems,3,0,0,Electrical & Electronics Engineering,7,,0
+EEE306,Renewable Energy Conversion & Storage Sysytems,3,0,0,Electrical & Electronics Engineering,7,,0
+EEE302,Electrical Machine Design,3,0,2,Electrical & Electronics Engineering,7,,0
+MAN105,Professional Ethics,0,0,2,Electrical & Electronics Engineering,7,,0
+EEE310,Network Analysis & Synthesis,3,0,0,Electrical & Electronics Engineering,4,,1
+PHY126R01,Device physics,4,0,0,Electrical & Electronics Engineering,4,,1
+ECE114,Device Modelling,3,0,2,Electrical & Electronics Engineering,4,,1
+PHY211,Materials Science,3,0,0,Electrical & Electronics Engineering,4,,1
+MEC209,Thermal Engineering & Fluid Machinery,3,0,0,Electrical & Electronics Engineering,4,,1
+CSE105,Computer Organization,4,0,0,Electrical & Electronics Engineering,4,,1
+MAT304R01,Mathematics for Cyber Security,3,1,0,Electrical & Electronics Engineering,4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Electrical & Electronics Engineering,4,,1
+MEC332,Power Plant Enginering,3,0,0,Electrical & Electronics Engineering,5,,1
+MCT204,Introduction to Mechatronics,3,0,0,Electrical & Electronics Engineering,5,,1
+ECE303,Nano Electronic Devices & Circuits,3,0,0,Electrical & Electronics Engineering,5,,1
+ECE201,Principles of Communication Engineering,3,0,0,Electrical & Electronics Engineering,5,,1
+ECE204,Digital Signal Processing,3,1,0,Electrical & Electronics Engineering,5,,1
+EIE303,Virtual Instrumentation,3,0,2,Electrical & Electronics Engineering,5,,1
+ICT304,Soft Computing Techniques,3,1,0,Electrical & Electronics Engineering,5,,1
+CSE208,Java Programming,3,0,2,Electrical & Electronics Engineering,5,,1
+CSE302,Computer Networks,4,0,0,Electrical & Electronics Engineering,5,,1
+INT301,Network Tools & Techniques,3,0,2,Electrical & Electronics Engineering,5,,1
+EEE302R01,Digital Controller for Power Electronic applications,2,0,2,Electrical & Electronics Engineering,5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electrical & Electronics Engineering,5,,1
+ECE223R01,IC Fabrication,4,0,0,Electrical & Electronics Engineering,5,,1
+EEE103,High Voltage Engineering,3,0,0,Electrical & Electronics Engineering,6,,1
+EEE211,Insulation Technology,3,0,0,Electrical & Electronics Engineering,6,,1
+EEE311,Pecial Machines,3,0,0,Electrical & Electronics Engineering,6,,1
+CSE313,Cryptography & Network Security,3,1,0,Electrical & Electronics Engineering,6,,1
+ECE412,CAD for VLSI,3,0,0,Electrical & Electronics Engineering,6,,1
+EIE311,Digital Control Engineering,3,1,0,Electrical & Electronics Engineering,6,,1
+CSE401,Digital Image Processing,3,1,0,Electrical & Electronics Engineering,6,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Electrical & Electronics Engineering,6,,1
+INT309,Domain Centric Security,3,0,2,Electrical & Electronics Engineering,6,,1
+EIE207,Micro Electro Mechanical Systems,3,1,0,Electrical & Electronics Engineering,6,,1
+ECE113,Quantum Computing,3,0,2,Electrical & Electronics Engineering,6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Electrical & Electronics Engineering,6,,1
+EEE312,High Voltage Transmission System,0,0,0,Electrical & Electronics Engineering,7,,1
+EEE313,Substation Design & Installation,3,0,0,Electrical & Electronics Engineering,7,,1
+EEE314,Electric Vehicles,3,0,0,Electrical & Electronics Engineering,7,,1
+EEE315,Power System Enonomics,3,0,0,Electrical & Electronics Engineering,7,,1
+EEE401,Flexible AC Transmission Systems,3,0,0,Electrical & Electronics Engineering,7,,1
+EEE324,Electronic Product Compliance & Reliability,2,0,2,Electrical & Electronics Engineering,7,,1
+EEE325,Power System Reliability,3,0,0,Electrical & Electronics Engineering,7,,1
+EIE417,Introduction to Machine Learning,3,1,0,Electrical & Electronics Engineering,7,,1
+ECE316,Digital VLSI Design,4,0,0,Electrical & Electronics Engineering,7,,1
+INT409,Embedded Security,3,0,2,Electrical & Electronics Engineering,7,,1
+EIE205,Robotics & Automation,3,1,0,Electrical & Electronics Engineering,7,,1
+EIE309R01,Industrial Control & Automation,3,1,0,Electrical & Electronics Engineering,7,,1
+CSE420,Computer Vision,3,1,0,Electrical & Electronics Engineering,7,,1
+CSE421,Pattern Recognition,3,1,0,Electrical & Electronics Engineering,7,,1
+CSE410,Embedded Systems,4,0,0,Electrical & Electronics Engineering,7,,1
+ECE323,Protocol & Architecture for Internet of Things,3,0,2,Electrical & Electronics Engineering,7,,1
+EEE323R01,Control & Tuning Methods In switched Mode Power Converters,3,0,2,Electrical & Electronics Engineering,7,,1
+EEE326,Smart Grid Security,3,1,0,Electrical & Electronics Engineering,7,,1
+EEE327,Electric Vehicle Charging Systems,3,0,2,Electrical & Electronics Engineering,7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electrical & Electronics Engineering,7,,1
+MAT201R01,Engineering Mathematics-III,3,1,0,Electrical & Electronics Engineering(SGEV),3,,0
+EEE201R01,Electric Networks,3,1,0,Electrical & Electronics Engineering(SGEV),3,,0
+EIE218R02,Analog Electronic Circuits,3,1,0,Electrical & Electronics Engineering(SGEV),3,,0
+ECE105R01,Digital Electronics,2,0,2,Electrical & Electronics Engineering(SGEV),3,,0
+EIE102,Electrical & Electronic Measurements,3,0,0,Electrical & Electronics Engineering(SGEV),3,,0
+MAT301R01,Engineering Mathematics-IV,3,1,0,Electrical & Electronics Engineering(SGEV),4,,0
+EEE102,Electromagnetic Field Theory,3,0,0,Electrical & Electronics Engineering(SGEV),4,,0
+EEE220,Electrical Machines-I,3,1,0,Electrical & Electronics Engineering(SGEV),4,,0
+EEE215,Battery Management System,3,0,0,Electrical & Electronics Engineering(SGEV),4,,0
+ECE214R01,Microcontroller Based System Design,3,0,0,Electrical & Electronics Engineering(SGEV),4,,0
+MAT307R01,statistical Methods,3,1,0,Electrical & Electronics Engineering(SGEV),5,,0
+EEE202R01,Power Electronics,3,1,0,Electrical & Electronics Engineering(SGEV),5,,0
+EEE217,Electrical Machines-II,3,1,0,Electrical & Electronics Engineering(SGEV),5,,0
+EEE218,Electric Power Transmission,3,0,0,Electrical & Electronics Engineering(SGEV),5,,0
+TNP101R01,Soft Skills-I,0,0,2,Electrical & Electronics Engineering(SGEV),5,,0
+EEE301,Power System Analysis,3,1,0,Electrical & Electronics Engineering(SGEV),6,,0
+EEE316,Special Electrical Machines,3,0,0,Electrical & Electronics Engineering(SGEV),6,,0
+EIE114,Feedback control systems,3,0,2,Electrical & Electronics Engineering(SGEV),6,,0
+EEE303,Solid State Drives,3,0,0,Electrical & Electronics Engineering(SGEV),6,,0
+TNP102R01,Soft Skills-II,0,0,2,Electrical & Electronics Engineering(SGEV),6,,0
+EEE305,Operation & Control of Power Systems,3,0,0,Electrical & Electronics Engineering(SGEV),7,,0
+EEE317R01,Static Power System Protection,3,0,0,Electrical & Electronics Engineering(SGEV),7,,0
+EEE318,Smart Distribution Grids,3,0,0,Electrical & Electronics Engineering(SGEV),7,,0
+EEE314,Electric Vehicles,3,0,0,Electrical & Electronics Engineering(SGEV),7,,0
+MAN105,Professional Ethics,0,0,2,Electrical & Electronics Engineering(SGEV),7,,0
+PHY126R01,Device physics,4,0,0,Electrical & Electronics Engineering(SGEV),4,,1
+ECE114,Device Modelling,3,0,2,Electrical & Electronics Engineering(SGEV),4,,1
+PHY211,Materials Science,3,0,0,Electrical & Electronics Engineering(SGEV),4,,1
+MEC209,Thermal Engineering & Fluid Machinery,3,0,0,Electrical & Electronics Engineering(SGEV),4,,1
+CSE105,Computer Organization,4,0,0,Electrical & Electronics Engineering(SGEV),4,,1
+MAT304R01,Mathematics for Cyber Security,3,1,0,Electrical & Electronics Engineering(SGEV),4,,1
+ECE104,Signal&Systems,3,1,0,Electrical & Electronics Engineering(SGEV),4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Electrical & Electronics Engineering(SGEV),4,,1
+MEC332,Power Plant Enginering,3,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+MCT204,Introduction to Mechatronics,3,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+ECE303,Nano Electronic Devices & Circuits,3,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+ECE210,Principles of Communication Engineering,3,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+ECE204,Digital Signal Processing,3,1,0,Electrical & Electronics Engineering(SGEV),5,,1
+EIE303,Virtual Instrumentation,3,0,2,Electrical & Electronics Engineering(SGEV),5,,1
+ICT304,Soft Computing Techniques,3,1,0,Electrical & Electronics Engineering(SGEV),5,,1
+CSE208,Java Programming,3,0,2,Electrical & Electronics Engineering(SGEV),5,,1
+CSE302,Computer Networks,4,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+INT301,Network Tools & Techniques,3,0,2,Electrical & Electronics Engineering(SGEV),5,,1
+EEE320R01,Digital Controller for Power Electronic applications,2,0,2,Electrical & Electronics Engineering(SGEV),5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electrical & Electronics Engineering(SGEV),5,,1
+ECE223R01,IC Fabrication,4,0,0,Electrical & Electronics Engineering(SGEV),5,,1
+EEE103,High Voltage Engineering,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+EEE211,Insulation Technology,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+EEE306,Renewable Energy Conversion & Storage Sysytems,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+EEE313,Substation Design & Installation,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+EEE321R01,Electric Drive Train,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+CSE313,Cyptography & Network Security,3,1,0,Electrical & Electronics Engineering(SGEV),6,,1
+ECE412,CAD for VLSI,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+ECE216,Introduction to Cyber Physical System,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+ECE322,Wireless Communication for Smart Grid,3,0,0,Electrical & Electronics Engineering(SGEV),6,,1
+EIE311,Digital Control Engineering,3,1,0,Electrical & Electronics Engineering(SGEV),6,,1
+CSE401,Digital Image Processing,3,1,0,Electrical & Electronics Engineering(SGEV),6,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Electrical & Electronics Engineering(SGEV),6,,1
+INT309,Domain Centric Security,3,0,2,Electrical & Electronics Engineering(SGEV),6,,1
+EIE207,Micro Electro Mechanical Systems,3,1,0,Electrical & Electronics Engineering(SGEV),6,,1
+ECE113,Quantum Computing,3,0,2,Electrical & Electronics Engineering(SGEV),6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Electrical & Electronics Engineering(SGEV),6,,1
+EEE312,High Voltage Transmission System,3,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+EEE401,Flexible AC Transmission Systems,3,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+EEE315,Power System Enonomics,3,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+EEE322,Power System Deregulation,3,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+EEE324,Electronic Product Compliance & Reliability,2,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+EEE325,Power System Reliability,3,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+EIE417,Introduction to Machine Learning,3,1,0,Electrical & Electronics Engineering(SGEV),7,,1
+ECE316,Digital VLSI Design,4,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+INT409,Embedded Security,3,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+EIE205,Robotics & Automation,3,1,0,Electrical & Electronics Engineering(SGEV),7,,1
+EIE309R01,Industrial Control & Automation,3,1,0,Electrical & Electronics Engineering(SGEV),7,,1
+CSE420,Computer Vision,4,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+CSE421,Pattern Recognition,4,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+CSE410,Embedded Systems,4,0,0,Electrical & Electronics Engineering(SGEV),7,,1
+ECE323,Protocol & Architecture for Internet of Things,3,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+EEE323R01,Control & Tuning Methods In switched Mode Power Converters,3,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+EEE326,Smart Grid Security,3,1,0,Electrical & Electronics Engineering(SGEV),7,,1
+EEE327,Electric Vehicle Charging Systems,3,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electrical & Electronics Engineering(SGEV),7,,1
+MAT201R01,Engineering Mathematics-III,3,1,0,Electronics & Communication Engineering,3,,0
+EEE201R01,Electric Networks,3,1,0,Electronics & Communication Engineering,3,,0
+ECE101,Digital System Design,3,1,0,Electronics & Communication Engineering,3,,0
+EIE201,Electronic Circuits,3,1,0,Electronics & Communication Engineering,3,,0
+ECE102,Engineering Electromagnetics,4,0,0,Electronics & Communication Engineering,3,,0
+MAT301R01,Engineering Mathematics-IV,3,1,0,Electronics & Communication Engineering,4,,0
+EIE301,Linear Intergrated Circuits,3,1,0,Electronics & Communication Engineering,4,,0
+ECE104,Signal&Systems,3,1,0,Electronics & Communication Engineering,4,,0
+ECE201R01,Microprocessor& Microcontroller,4,0,0,Electronics & Communication Engineering,4,,0
+ECE202,Analog Communication,3,0,0,Electronics & Communication Engineering,4,,0
+MAT303,Probality & Random Processes,3,0,0,Electronics & Communication Engineering,5,,0
+ECE301,Digital Communication,3,0,0,Electronics & Communication Engineering,5,,0
+ECE204,Digital Signal Processing,3,1,0,Electronics & Communication Engineering,5,,0
+EIE104,Control Engineering,3,1,0,Electronics & Communication Engineering,5,,0
+TNP101R01,Soft Skills -I,0,0,2,Electronics & Communication Engineering,5,,0
+ECE206R01,Antenna & Wave Propagation,2,0,2,Electronics & Communication Engineering,6,,0
+ECE304R01,Microwave Engineering,3,0,0,Electronics & Communication Engineering,6,,0
+ECE316,Digital VLSI Design,4,0,0,Electronics & Communication Engineering,6,,0
+TNP102R01,Soft Skills -II,0,0,2,Electronics & Communication Engineering,6,,0
+ECE403,Information Theory & Coding,3,1,0,Electronics & Communication Engineering,7,,0
+ECE307,Optical Communication,3,0,0,Electronics & Communication Engineering,7,,0
+ECE404,Wireless Communication ,4,0,0,Electronics & Communication Engineering,7,,0
+ECE336,FPGA Implementation of Signal Processing Systems,4,0,0,Electronics & Communication Engineering,7,,0
+MAN105,Professional Ethics,0,0,2,Electronics & Communication Engineering,7,,0
+EIE207,Pulse & Wave Shaping Circuits,3,0,0,Electronics & Communication Engineering,4,,1
+EIE107,Measurements & Instrumentation,3,0,0,Electronics & Communication Engineering,4,,1
+CSE208,Java Programming,3,0,2,Electronics & Communication Engineering,4,,1
+PHY211,Materials Science,3,0,0,Electronics & Communication Engineering,4,,1
+PHY126R01,Device physics,4,0,0,Electronics & Communication Engineering,4,,1
+ECE213,Solar Photovoltaics,3,0,0,Electronics & Communication Engineering,4,,1
+MAT304R01,Mathematics for Cyber Security,3,1,0,Electronics & Communication Engineering,4,,1
+ECE219,Mixed Signal Circuit Design,3,0,0,Electronics & Communication Engineering,4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Electronics & Communication Engineering,4,,1
+ECE114,Device Modeling,3,0,2,Electronics & Communication Engineering,4,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Electronics & Communication Engineering,5,,1
+EIE215,Biomedical Engineering,3,0,0,Electronics & Communication Engineering,5,,1
+ECE303,Nano Electronic Devices & Circuits,3,0,0,Electronics & Communication Engineering,5,,1
+MAT308,Optimization Techniques,3,1,0,Electronics & Communication Engineering,5,,1
+EEE202R01,Power Electronics,3,1,0,Electronics & Communication Engineering,5,,1
+ICT307,Network Administration & Management Tools,3,1,0,Electronics & Communication Engineering,5,,1
+INT301,Network Tools & Techniques,3,0,2,Electronics & Communication Engineering,5,,1
+CSE302,Computer Networks,4,0,0,Electronics & Communication Engineering,5,,1
+ECE220,Electromagnetic Interference & Compatibity,3,0,0,Electronics & Communication Engineering,5,,1
+CSE105,Computer Organization,4,0,0,Electronics & Communication Engineering,5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electronics & Communication Engineering,5,,1
+ECE223R01,IC Fabrication,4,0,0,Electronics & Communication Engineering,5,,1
+ICT304,Soft Computing Techniques,3,1,0,Electronics & Communication Engineering,6,,1
+ECE401,Satellite Communication,3,0,0,Electronics & Communication Engineering,6,,1
+EIE303,Virtual Instrumentation,3,0,2,Electronics & Communication Engineering,6,,1
+ECE402,RADAR Engineering,3,0,0,Electronics & Communication Engineering,6,,1
+ECE306R01,RF Microelectronics,3,0,0,Electronics & Communication Engineering,6,,1
+ECE326,Embedded & Real-Time System Design,4,0,0,Electronics & Communication Engineering,6,,1
+EIE205,Robotics & Automation,3,1,0,Electronics & Communication Engineering,6,,1
+CSE313,Cryptography & Network Security,3,1,0,Electronics & Communication Engineering,6,,1
+INT309,Domain Centric Security,3,0,2,Electronics & Communication Engineering,6,,1
+ECE411,Open Radio Access Network Architecture & Design,3,0,0,Electronics & Communication Engineering,6,,1
+ECE113,Quantum Computing,3,0,2,Electronics & Communication Engineering,6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Electronics & Communication Engineering,6,,1
+ECE412,CAD for VLSI,3,0,0,Electronics & Communication Engineering,6,,1
+ECE310,Image Processing,3,0,0,Electronics & Communication Engineering,7,,1
+ECE311,Speech Processing,3,0,0,Electronics & Communication Engineering,7,,1
+ECE207,Hardware Design with Bluespec System Verilog,3,0,0,Electronics & Communication Engineering,7,,1
+ECE405,Wireless Ad Hoc & Sensor Networks,3,0,0,Electronics & Communication Engineering,7,,1
+ECE406,Spread Spectrum Communication,3,0,0,Electronics & Communication Engineering,7,,1
+ECE407,"Telecommunication Switching, Traffic & Networks",3,0,0,Electronics & Communication Engineering,7,,1
+ECE408,Navigation Systems,3,0,0,Electronics & Communication Engineering,7,,1
+ECE409,Data Compression,3,0,0,Electronics & Communication Engineering,7,,1
+ECE410,Communication Protocols,3,0,0,Electronics & Communication Engineering,7,,1
+INT409,Embedded Security,3,0,2,Electronics & Communication Engineering,7,,1
+EIE417,Introduction to Machine Learning,3,1,0,Electronics & Communication Engineering,7,,1
+ECE323,Protocol & Architecture For Internet of Things,3,0,2,Electronics & Communication Engineering,7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electronics & Communication Engineering,7,,1
+MAT201R01,Engineering Mathematics - III,3,1,0,Electronics & Communication Engineering(CPS),3,,0
+EEE201R01,Electric Networks,3,1,0,Electronics & Communication Engineering(CPS),3,,0
+ECE101,Digital System Design,3,1,0,Electronics & Communication Engineering(CPS),3,,0
+EIE201,Electronic Circuits,3,1,0,Electronics & Communication Engineering(CPS),3,,0
+ECE102,Engineering Electromagnetics,4,0,0,Electronics & Communication Engineering(CPS),3,,0
+MAT301R01,Engineering Mathematics - IV,3,1,0,Electronics & Communication Engineering(CPS),4,,0
+EIE316,Analog System Design,3,0,0,Electronics & Communication Engineering(CPS),4,,0
+ECE104,Signals & Systems,3,1,0,Electronics & Communication Engineering(CPS),4,,0
+ECE201R01,Microprocessor & Microcontroller,4,0,0,Electronics & Communication Engineering(CPS),4,,0
+ECE216,Introduction to Cyber Physical System,3,0,0,Electronics & Communication Engineering(CPS),4,,0
+MAT303,Probability & Random Processes,3,0,0,Electronics & Communication Engineering(CPS),5,,0
+ECE217,Analog & Digital Communication,4,0,0,Electronics & Communication Engineering(CPS),5,,0
+ECE312,Digital Signal Processing & Architecture,3,1,0,Electronics & Communication Engineering(CPS),5,,0
+EIE104,Control Engineering,3,1,0,Electronics & Communication Engineering(CPS),5,,0
+TNP101R01,Soft Skills-I,0,0,2,Electronics & Communication Engineering(CPS),5,,0
+ECE318,Internet of Things (IoT)- Architecture &Applications,2,0,2,Electronics & Communication Engineering(CPS),6,,0
+ECE218,Antenna &Microwave Engineering,3,0,0,Electronics & Communication Engineering(CPS),6,,0
+ECE316,Digital VLSI Design,4,0,0,Electronics & Communication Engineering(CPS),6,,0
+TNP102R01,Soft Skills-II,0,0,2,Electronics & Communication Engineering(CPS),6,,0
+ECE403,Information Theory & Coding,3,1,0,Electronics & Communication Engineering(CPS),7,,0
+ECE319,Cyber Physical System Design,3,0,0,Electronics & Communication Engineering(CPS),7,,0
+ECE404,Wireless Communication,4,0,0,Electronics & Communication Engineering(CPS),7,,0
+INT430,Artificial Intelligence & Machine Learning,3,0,2,Electronics & Communication Engineering(CPS),7,,0
+MAN105,Professional Ethics,0,0,2,Electronics & Communication Engineering(CPS),7,,0
+CSE208,Java Programming,3,0,2,Electronics & Communication Engineering(CPS),4,,1
+MAT304R01,Mathematics for Cyber Security,3,1,0,Electronics & Communication Engineering(CPS),4,,1
+PHY126R01,Device Physics,4,0,0,Electronics & Communication Engineering(CPS),4,,1
+EIE107,Measurements & Instrumentation,3,0,0,Electronics & Communication Engineering(CPS),4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Electronics & Communication Engineering(CPS),4,,1
+ECE114,Device Modeling,3,0,2,Electronics & Communication Engineering(CPS),4,,1
+INT301,Network Tools & Techniques,3,0,2,Electronics & Communication Engineering(CPS),5,,1
+CSE302,Computer Networks,4,0,0,Electronics & Communication Engineering(CPS),5,,1
+ECE307,Optical Communication,3,0,0,Electronics & Communication Engineering(CPS),5,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Electronics & Communication Engineering(CPS),5,,1
+EIE215,Biomedical Engineering,3,0,0,Electronics & Communication Engineering(CPS),5,,1
+EEE202,Power Electronics,3,1,0,Electronics & Communication Engineering(CPS),5,,1
+CSE105,Computer Organization,4,0,0,Electronics & Communication Engineering(CPS),5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electronics & Communication Engineering(CPS),5,,1
+ECE223R01,IC Fabrication,4,0,0,Electronics & Communication Engineering(CPS),5,,1
+ICT304,Soft Computing Techniques,3,1,0,Electronics & Communication Engineering(CPS),6,,1
+ECE401,Satellite Communication,3,0,0,Electronics & Communication Engineering(CPS),6,,1
+CSE313,Cryptography & Network Security,3,1,0,Electronics & Communication Engineering(CPS),6,,1
+INT309,Domain Centric Security,3,0,2,Electronics & Communication Engineering(CPS),6,,1
+ECE326,Embedded & Real-Time System Design,4,0,0,Electronics & Communication Engineering(CPS),6,,1
+EIE303,Virtual Instrumentation,3,0,2,Electronics & Communication Engineering(CPS),6,,1
+EIE205,Robotics & Automation,3,1,0,Electronics & Communication Engineering(CPS),6,,1
+ECE113,Quantum Computing,3,0,2,Electronics & Communication Engineering(CPS),6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Electronics & Communication Engineering(CPS),6,,1
+ECE412,CAD for VLSI,3,0,0,Electronics & Communication Engineering(CPS),6,,1
+ECE310,Image Processing,3,0,0,Electronics & Communication Engineering(CPS),7,,1
+ECE410,Communication Protocols,3,0,0,Electronics & Communication Engineering(CPS),7,,1
+INT409,Embedded Security,3,0,2,Electronics & Communication Engineering(CPS),7,,1
+ECE321,Applications of Cyber Physical Systems,3,0,0,Electronics & Communication Engineering(CPS),7,,1
+ECE405,Wireless Ad Hoc & Sensor Networks,3,0,0,Electronics & Communication Engineering(CPS),7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electronics & Communication Engineering(CPS),7,,1
+MAT201R01,Engineering Mathematics-III,3,1,0,Electronics & Instrumentation Engineering,3,,0
+EEE201R01,Electric Networks,3,1,0,Electronics & Instrumentation Engineering,3,,0
+ECE101,Digital System Design,3,1,0,Electronics & Instrumentation Engineering,3,,0
+EIE201,Electronic Circuits,3,1,0,Electronics & Instrumentation Engineering,3,,0
+ECE104,Signals & Systems,3,1,0,Electronics & Instrumentation Engineering,3,,0
+MAT301R01,Engineering Mathematics-IV,3,1,0,Electronics & Instrumentation Engineering,4,,0
+EIE301,Linear Integrated Circuits,3,1,0,Electronics & Instrumentation Engineering,4,,0
+EIE102,Electrical & Electronic Measurements,3,0,0,Electronics & Instrumentation Engineering,4,,0
+EIE104,Control Engineering,3,1,0,Electronics & Instrumentation Engineering,4,,0
+EEE213,Electrical Machines & Drives,3,0,2,Electronics & Instrumentation Engineering,4,,0
+ECE204,Digital Signal Processing,3,1,0,Electronics & Instrumentation Engineering,5,,0
+EIE203,Sensors & Transducers,3,0,0,Electronics & Instrumentation Engineering,5,,0
+ECE201R01,Microprocessor & Microcontroller,4,0,0,Electronics & Instrumentation Engineering,5,,0
+TNP101R01,Soft Skills-I,0,0,2,Electronics & Instrumentation Engineering,5,,0
+ECE316,Digital VLSI Design,4,0,0,Electronics & Instrumentation Engineering,6,,0
+EIE304,Industrial Instrumentation,3,0,0,Electronics & Instrumentation Engineering,6,,0
+EIE216,Process Control,3,1,0,Electronics & Instrumentation Engineering,6,,0
+TNP102R01,Soft Skills-II,0,0,2,Electronics & Instrumentation Engineering,6,,0
+EIE402,PLC & DCS,3,1,0,Electronics & Instrumentation Engineering,7,,0
+EIE403,Analytical Instrumentation,3,0,0,Electronics & Instrumentation Engineering,7,,0
+EIE417,Introduction to Machine Learning,3,1,0,Electronics & Instrumentation Engineering,7,,0
+EIE404,Instrumentation System Design,3,0,0,Electronics & Instrumentation Engineering,7,,0
+MAN105,Professional Ethics,0,0,2,Electronics & Instrumentation Engineering,7,,0
+ECE210,Principles of Communication Engineering,3,0,0,Electronics & Instrumentation Engineering,4,,1
+EEE102,Electromagnetic Field Theory,3,0,0,Electronics & Instrumentation Engineering,4,,1
+MEC150,Thermodynamics & Fluid Machinery,3,0,0,Electronics & Instrumentation Engineering,4,,1
+PHY211,Materials Science,3,0,0,Electronics & Instrumentation Engineering,4,,1
+ICT101,Data Structures & Algorithms,4,0,0,Electronics & Instrumentation Engineering,4,,1
+MAT304R01,Mathematics for Cyber security,3,1,0,Electronics & Instrumentation Engineering,4,,1
+PHY126R01,Device Physics,4,0,0,Electronics & Instrumentation Engineering,4,,1
+ECE114,Device Modeling,3,0,2,Electronics & Instrumentation Engineering,4,,1
+MAT307R01,Statistical Methods,3,1,0,Electronics & Instrumentation Engineering,5,,1
+CSE208,Java Programming,3,0,2,Electronics & Instrumentation Engineering,5,,1
+EEE202R01,Power Electronics,3,1,0,Electronics & Instrumentation Engineering,5,,1
+EIE303,Virtual Instrumentation,3,0,2,Electronics & Instrumentation Engineering,5,,1
+EIE205,Robotics & Automation,3,1,0,Electronics & Instrumentation Engineering,5,,1
+EIE206,Opto Electronics & Laser Based Instrumentation,4,0,0,Electronics & Instrumentation Engineering,5,,1
+MAT308,Optimization Techniques,3,1,0,Electronics & Instrumentation Engineering,5,,1
+CSE302,Computer Networks,4,0,0,Electronics & Instrumentation Engineering,5,,1
+INT301,Network Tools & Techniques,3,0,2,Electronics & Instrumentation Engineering,5,,1
+EIE315,Systems Design,1,0,4,Electronics & Instrumentation Engineering,5,,1
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electronics & Instrumentation Engineering,5,,1
+ECE223R01,IC Fabrication,4,0,0,Electronics & Instrumentation Engineering,5,,1
+EIE306,Electric & Hybrid Vehicle Systems,3,0,0,Electronics & Instrumentation Engineering,6,,1
+EIE307,Power Plant Instrumentation,3,0,0,Electronics & Instrumentation Engineering,6,,1
+EIE308,Smart & Embedded Instrumentation,3,0,0,Electronics & Instrumentation Engineering,6,,1
+EIE401,Network Control Systems,3,0,0,Electronics & Instrumentation Engineering,6,,1
+CSE304,Python Programming with Web Frameworks,3,0,2,Electronics & Instrumentation Engineering,6,,1
+MAT303,Probability & Random Processes,3,0,0,Electronics & Instrumentation Engineering,6,,1
+ECE323,Protocol & Architecture for Internet of Things,3,0,2,Electronics & Instrumentation Engineering,6,,1
+CSE401,Digital Image Processing,3,1,0,Electronics & Instrumentation Engineering,6,,1
+CSE313,Cryptography & Network Security,3,1,0,Electronics & Instrumentation Engineering,6,,1
+INT309,Domain-centric Security,3,0,2,Electronics & Instrumentation Engineering,6,,1
+MAT245,Data & Decision Sciences,3,1,0,Electronics & Instrumentation Engineering,6,,1
+ECE335,FPGA Architecture & Design,3,0,2,Electronics & Instrumentation Engineering,6,,1
+ECE412,CAD for VLSI,3,0,0,Electronics & Instrumentation Engineering,6,,1
+EIE407,NonLinear Control Theory,3,1,0,Electronics & Instrumentation Engineering,7,,1
+EIE314,Bio Medical Instrumentation,3,0,2,Electronics & Instrumentation Engineering,7,,1
+EIE408,Intelligent Systems & Control,3,0,2,Electronics & Instrumentation Engineering,7,,1
+EIE313,Digital Control Systems,3,1,0,Electronics & Instrumentation Engineering,7,,1
+ECE315,Statistical Signal Processing,3,1,0,Electronics & Instrumentation Engineering,7,,1
+INT409,Embedded Security,3,0,2,Electronics & Instrumentation Engineering,7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electronics & Instrumentation Engineering,7,,1
+MAT201R01,Engineering Mathematics - III,3,1,0,Electronics Engineering(VLSI Design & Technology),3,,0
+EEE221,Electric Circuits & Networks,3,1,0,Electronics Engineering(VLSI Design & Technology),3,,0
+ECE101,Digital System Design,3,1,0,Electronics Engineering(VLSI Design & Technology),3,,0
+ECE104,Signals & Systems,3,1,0,Electronics Engineering(VLSI Design & Technology),3,,0
+PHY144,Semiconductor Physics,4,0,0,Electronics Engineering(VLSI Design & Technology),3,,0
+MAT301R01,Engineering Mathematics - IV,3,1,0,Electronics Engineering(VLSI Design & Technology),4,,0
+ECE109R01,Electronic Devices & Modeling,3,0,2,Electronics Engineering(VLSI Design & Technology),4,,0
+EIE201,Electronic Circuits,3,1,0,Electronics Engineering(VLSI Design & Technology),4,,0
+EIE301,Linear Integrated Circuits,4,0,0,Electronics Engineering(VLSI Design & Technology),4,,0
+ECE201R01,Microprocessor & Microcontroller,4,0,0,Electronics Engineering(VLSI Design & Technology),4,,0
+ECE221R01,Digital CMOS VLSI Design,3,0,2,Electronics Engineering(VLSI Design & Technology),5,,0
+ECE204,Digital Signal Processing,3,1,0,Electronics Engineering(VLSI Design & Technology),5,,0
+ECE217,Analog & Digital Communication,4,0,0,Electronics Engineering(VLSI Design & Technology),5,,0
+ECE223R01,IC Fabrication,4,0,0,Electronics Engineering(VLSI Design & Technology),5,,0
+TNP101R01,Soft Skills-I,0,0,2,Electronics Engineering(VLSI Design & Technology),5,,0
+ECE324,FPGA Architecture & Design,4,0,0,Electronics Engineering(VLSI Design & Technology),6,,0
+ECE325,Compact Modeling of Semiconductors,4,0,0,Electronics Engineering(VLSI Design & Technology),6,,0
+ECE326,Embedded & Real-Time System Design,4,0,0,Electronics Engineering(VLSI Design & Technology),6,,0
+TNP102R01,Soft Skills-II,0,0,2,Electronics Engineering(VLSI Design & Technology),6,,0
+ECE329,VLSI Verification & Testing,4,0,0,Electronics Engineering(VLSI Design & Technology),7,,0
+ECE416,AI for Chip Design,2,0,2,Electronics Engineering(VLSI Design & Technology),7,,0
+ECE412,CAD for VLSI,3,0,0,Electronics Engineering(VLSI Design & Technology),7,,0
+MAN105,Professional Ethics,0,0,2,Electronics Engineering(VLSI Design & Technology),7,,0
+PHY211,Materials Science,3,0,0,Electronics Engineering(VLSI Design & Technology),5,,1
+ECE102,Engineering Electromagnetics,4,0,0,Electronics Engineering(VLSI Design & Technology),5,,1
+ECE224,Optoelectronic Devices & Circuits,3,0,0,Electronics Engineering(VLSI Design & Technology),5,,1
+CSE105,Computer Organization,4,0,0,Electronics Engineering(VLSI Design & Technology),5,,1
+ECE306R01,RF Microelectronics,3,0,0,Electronics Engineering(VLSI Design & Technology),5,,1
+ECE230,Analog VLSI Design,3,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE303,Nano Electronic Devices & Circuits,3,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE414,Micro and Nanofabrication Techniques,3,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE219,Mixed Signal Circuit Design,3,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE332,Spintronic Devices & Circuits,4,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE331,VLSI Signal Processing,3,0,0,Electronics Engineering(VLSI Design & Technology),6,,1
+ECE413,Softcore SoC Architectures,3,0,0,Electronics Engineering(VLSI Design & Technology),7,,1
+ECE307,Optical Communication,3,0,0,Electronics Engineering(VLSI Design & Technology),7,,1
+ECE225,Semiconductor Packaging & Testing,3,0,2,Electronics Engineering(VLSI Design & Technology),7,,1
+ECE333,PCB Design & Fabrication,3,0,2,Electronics Engineering(VLSI Design & Technology),7,,1
+ECE220,Electromagnetic Interference & Compatibility,3,0,0,Electronics Engineering(VLSI Design & Technology),7,,1
